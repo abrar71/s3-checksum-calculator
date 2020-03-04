@@ -1,0 +1,21 @@
+{
+  "name": "s3-checksum-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Abrar Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.632.0",
+    "axios": "^0.19.2",
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abrar71/s3-checksum-calculator.git"
+  },
+}

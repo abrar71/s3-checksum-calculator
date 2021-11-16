@@ -10,7 +10,7 @@
   "author": "Abrar Ahmed",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.632.0",
+    "aws-sdk": "^2.814.0",
     "axios": "^0.21.1",
     "express": "^4.17.1"
   },
